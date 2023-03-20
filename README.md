@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**WebSrChZ/WebSrChZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### 👋 Hoy potato! Welcome to my Github profile
+## I'm WebSrChZ
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning software languages
@@ -13,15 +9,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: DISCORD: https://dsc.bio/websrchz
 - 😄 Pronouns: ...
 - ⚡ Love to create technologies.
--->
+
 </p align="center">
   <img align="right" height="200" src="..." />
 <p align="center">
 
-<div>
-  <h3>👋 Hoy potato! Welcome to my Github profile.</h2>
-  <h3>Im WebSrChZ!</h2>
-</div>
 
 <br>
 <div align="center">
