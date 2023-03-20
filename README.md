@@ -11,7 +11,7 @@
 - 📫 Contact-me in DISCORD: https://dsc.bio/websrchz
 
 <div align="center">
-  <p>Languages</p>
+  <p style="font-size: 60px;">Languages</p>
   <img aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
