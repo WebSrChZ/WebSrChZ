@@ -10,6 +10,7 @@
 - ⚡ Love to create technologies
 - 📫 Contact-me in DISCORD: https://dsc.bio/websrchz
 
+<br>
 <div align="center">
   <h3> Languages </h3>
   <img aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
