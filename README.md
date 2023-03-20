@@ -1,19 +1,14 @@
 ### 👋 Hoy potato! Welcome to my Github profile
 ## I'm WebSrChZ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning software languages
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: DISCORD: https://dsc.bio/websrchz
-- 😄 Pronouns: ...
-- ⚡ Love to create technologies.
-
 </p align="center">
   <img align="right" height="200" src="..." />
 <p align="center">
 
+- 🔭 Currently working on ...
+- 🌱 Learning software languages
+- ⚡ Love to create technologies
+- 📫 Contact-me in DISCORD: https://dsc.bio/websrchz
 
 <br>
 <div align="center">
