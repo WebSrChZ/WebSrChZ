@@ -1,9 +1,9 @@
-### 👋 Hoy potato! Welcome to my Github profile
-## I'm WebSrChZ
-
-</p align="center">
-  <img align="right" height="200" src="..." />
 <p align="center">
+  <img align="right" height="200" src="..." />
+</p align="center">
+
+### 👋 Hoy potato! Welcome to my Github profile
+### I'm SrChZ!
 
 - 🔭 Currently working on ...
 - 🌱 Learning software languages
