@@ -1,14 +1,14 @@
 <p align="center">
-  <img align="right" height="200" src="..." />
+  <img align="right" height="200" src="https://c.tenor.com/32Y87vhem4sAAAAd/tenor.gif" />
 </p align="center">
 
 ### 👋 Hoy potato! Welcome to my Github profile
 ### I'm SrChZ!
 
-- 🔭 Currently working on ...
-- 🌱 Learning software languages
-- ⚡ Love to create technologies
-- 📫 Contact-me in DISCORD: https://dsc.bio/websrchz
+- 🔭 Currently working on building myself  (～￣▽￣)～
+- 🌱 Learning software languages （￣︶￣）↗　
+- ⚡ Love to create technologies  (づ￣ 3￣)づ
+- 📫 Contact-me in DISCORD: https://dsc.bio/websrchz \(￣︶￣*\))
 
 <br>
 <div align="center">
