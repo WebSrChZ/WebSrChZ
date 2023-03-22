@@ -5,10 +5,10 @@
 ### 👋 Hoy potato! Welcome to my Github profile
 ### I'm SrChZ!
 
-- 🔭 Currently working on building myself   (～￣▽￣)～
-- 🌱 Learning software languages （￣︶￣）↗　
-- ⚡ Love to create technologies   (づ￣ 3￣)づ
-- 📫 Contact-me in DISCORD: https://dsc.bio/websrchz  \(￣︶￣*\))
+- 🔭 Currently working on building myself   （￣︶￣）↗　
+- 🌱 Learning software languages   (～￣▽￣)～
+- ⚡ Love to create technologies      (づ￣ 3￣)づ
+- 📫 Contact-me in DISCORD: https://dsc.bio/websrchz    \(￣︶￣*\))
 
 <br>
 <div align="center">
