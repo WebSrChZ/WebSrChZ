@@ -1,52 +1,42 @@
 <div align="center">
 
-# Rafael Cordeiro
+```
+// quem e esse cara
+nome: Rafael Santos
+aka: SrChZ
+tipo: INTJ-A — O Arquiteto
+titulo: Arquiteto de Ecossistemas Digitais
+empresa: SrChZ Technologies
+modo: empresario, nao freelancer
+```
 
-**Desenvolvedor Web & Produtor de Conteudo Digital**
+<br>
 
-Fundador da **SrChZ Technologies** — desenvolvimento de portais, automacoes e producao audiovisual para negocios.
+# SrChZ
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-SrChZ_Technologies-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://websrchz.github.io/its-power-hub/)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelhenriquecsantosz@gmail.com)
+**Arquiteto de Ecossistemas Digitais**
+
+*"Sem reservas. Sem prazo. Sem amar pela metade."*
+
+[![Biografia Musical](https://img.shields.io/badge/Biografia_Musical-ouça_a_trilha-8b5cf6?style=for-the-badge&logo=spotify&logoColor=white)](https://websrchz.github.io/BiografiaMusical/)
+[![ITS Power](https://img.shields.io/badge/ITS_Power-portal-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://websrchz.github.io/its-power-hub/)
+[![Email](https://img.shields.io/badge/Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelhenriquecsantosz@gmail.com)
 
 </div>
 
 ---
 
-### O que eu faco
+### // identidade
 
-```
-Portais Web        Dashboards interativos, paineis SaaS, sistemas com login e permissoes
-Backend            Node.js, Supabase (PostgreSQL + Realtime), APIs REST, autenticacao
-Frontend           HTML5, CSS3, JavaScript vanilla, SPA com roteamento client-side
-Video & Motion     Edicao de video, legendas automaticas, animacoes HTML/GSAP/React
-Automacao          Bots, integracao de APIs, deploy automatizado (GitHub Actions, CI/CD)
-```
+Fundador da **SrChZ Technologies**. Construo ecossistemas digitais — portais, automacoes, producao audiovisual — para negocios que querem crescer com estrategia, nao com sorte.
+
+Penso como empresario: nao vendo entregas, vendo **presenca digital, posicionamento e resultado**. O video e o veiculo. O codigo e a ferramenta. O que importa e o que se constroi com tudo isso.
+
+**INTJ-A** — 2% da populacao. Observa tudo, fala pouco, ja calculou tres cenarios antes de voce terminar a frase.
 
 ---
 
-### Projeto em destaque
-
-<table>
-<tr>
-<td width="120" align="center">
-<img src="https://raw.githubusercontent.com/WebSrChZ/its-power-hub/master/public/assets/LogoItsPower.jpg" width="80" alt="ITS Power"/>
-</td>
-<td>
-
-**[ITS Power — Portal do Projeto](https://websrchz.github.io/its-power-hub/)**
-
-Portal SaaS para gestao de conteudo digital da academia ITS Power. Dashboard com calendario editorial, sistema de feedback por post, pedidos bidirecionais admin/cliente, notificacoes em tempo real via Supabase Realtime, consentimento LGPD, e deploy automatico via GitHub Pages.
-
-`JavaScript` `Supabase` `HTML/CSS` `GitHub Actions` `Realtime` `SHA-256 Auth`
-
-</td>
-</tr>
-</table>
-
----
-
-### Stack
+### // stack
 
 <div align="center">
 
@@ -65,8 +55,58 @@ Portal SaaS para gestao de conteudo digital da academia ITS Power. Dashboard com
 
 ---
 
+### // projetos
+
+<table>
+<tr>
+<td width="120" align="center">
+<img src="https://raw.githubusercontent.com/WebSrChZ/its-power-hub/master/public/assets/LogoItsPower.jpg" width="80" alt="ITS Power"/>
+</td>
+<td>
+
+**[ITS Power — Portal do Projeto](https://websrchz.github.io/its-power-hub/)**
+
+Portal SaaS para gestao de conteudo digital. Dashboard com calendario editorial, sistema de feedback, notificacoes em tempo real via Supabase Realtime, e deploy automatico via GitHub Pages.
+
+`JavaScript` `Supabase` `Realtime` `GitHub Actions`
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center">
+<img src="https://img.shields.io/badge/♪-8b5cf6?style=for-the-badge" width="50" alt="Biografia Musical"/>
+</td>
+<td>
+
+**[Biografia Musical](https://websrchz.github.io/BiografiaMusical/)**
+
+Uma biografia interativa construida com a trilha sonora que me define. 2.934 musicas curtidas, slowed + reverb, phonk, trap BR. Nao e sobre o que eu faco — e sobre quem eu sou.
+
+`HTML` `CSS` `JavaScript` `Spotify`
+
+</td>
+</tr>
+</table>
+
+---
+
+### // vibe
+
+```
+tocando_agora: Lembranca — MC Menor da L, MACIH
+generos: slowed + reverb, phonk, trap BR
+artistas: LONOWN, ptasinski, riserayss, IZA, Ana Castela
+musicas_curtidas: 2.934
+```
+
+---
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WebSrChZ&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true)
+
+<br>
+
+*"A fe e a expectativa certa de coisas esperadas, a demonstracao evidente de realidades que nao se veem." — Hebreus 11:1*
 
 </div>
