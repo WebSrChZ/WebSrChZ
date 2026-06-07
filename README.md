@@ -22,7 +22,7 @@ estetica: Dark Tech
 
 **Arquiteto de Ecossistemas Digitais**
 
-*"Sem reservas. Sem prazo. Sem amar pela metade."*
+*"⚜️ 𝙿𝚎𝚛𝚌𝚎𝚙𝚝𝚒𝚘𝚗, 𝚂𝚝𝚛𝚊𝚝𝚎𝚐𝚢 & 𝙴𝚡𝚎𝚌𝚞𝚝𝚒𝚘𝚗 — 𝚂𝚘𝚕𝚟𝚒𝚗𝚐 𝚠𝚑𝚊𝚝 𝚖𝚘𝚜𝚝 𝚙𝚎𝚘𝚙𝚕𝚎 𝚘𝚟𝚎𝚛𝚕𝚘𝚘𝚔."*
 
 [![Biografia Musical](https://img.shields.io/badge/Biografia_Musical-ouça_a_trilha-8b5cf6?style=for-the-badge&logo=spotify&logoColor=white)](https://websrchz.github.io/BiografiaMusical/)
 [![ITS Power](https://img.shields.io/badge/ITS_Power-portal-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://websrchz.github.io/its-power-hub/)
