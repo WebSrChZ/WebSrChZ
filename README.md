@@ -30,9 +30,9 @@ modo: empresario, nao freelancer
 
 Fundador da **SrChZ Technologies**. Construo ecossistemas digitais — portais, automacoes, producao audiovisual — para negocios que querem crescer com estrategia, nao com sorte.
 
-Penso como empresario: nao vendo entregas, vendo **presenca digital, posicionamento e resultado**. O video e o veiculo. O codigo e a ferramenta. O que importa e o que se constroi com tudo isso.
+Nao me defino pelo que faco. Defino pelo que entendo. Profissoes sao ferramentas, nao identidade. O video e o veiculo. O codigo e a ferramenta. O que importa e o que se constroi com tudo isso — **presenca, posicionamento, resultado**.
 
-**INTJ-A** — 2% da populacao. Observa tudo, fala pouco, ja calculou tres cenarios antes de voce terminar a frase.
+**INTJ-A** — 2% da populacao. Observador. Estrategista. Solucionador. Desmonta sistemas ate achar a falha. Pensa em ecossistemas, nao em tarefas.
 
 ---
 
