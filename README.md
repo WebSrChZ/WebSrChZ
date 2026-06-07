@@ -2,12 +2,15 @@
 
 ```
 // quem e esse cara
-nome: Rafael Santos
+nome: Rafael Henrique Cordeiro Santos
 aka: SrChZ
 tipo: INTJ-A — O Arquiteto
 titulo: Arquiteto de Ecossistemas Digitais
 empresa: SrChZ Technologies
-formacao: PROA, Educacao Fisica
+formacao: Eng. Computacao, Ed. Fisica, Pedagogia, Psicanalise
+idiomas: PT (nativo), EN (C1), JP (A2)
+experiencia: Meta — CX Specialist III (Senior)
+neurodivergencia: TEA nivel 1 (Asperger) + AH/SD (superdotacao)
 localizacao: Claudio/Divinopolis, MG
 modo: empresario, nao freelancer
 estetica: Dark Tech
@@ -34,9 +37,9 @@ estetica: Dark Tech
 
 Fundador da **SrChZ Technologies**. Construo ecossistemas digitais — portais, automacoes, producao audiovisual — para negocios que querem crescer com estrategia, nao com sorte. Nao vendo video. Vendo **presenca digital, posicionamento e resultado**.
 
-Nao me defino pelo que faco. Defino pelo que entendo. Profissoes sao ferramentas, nao identidade. Estrategia: **Descoberta de Narrativa** — primeiro descobre qual narrativa gera mais atencao, depois escala valor.
+Trilingue (PT/EN/JP). Ex-Meta CX Specialist III (Senior). Cursando Engenharia da Computacao + Psicanalise na UNINTER. Nao me defino pelo que faco. Defino pelo que entendo. Profissoes sao ferramentas, nao identidade. Estrategia: **Descoberta de Narrativa** — primeiro descobre qual narrativa gera mais atencao, depois escala valor.
 
-**INTJ-A** — 2% da populacao. Arquetipos: Estrategista (primario), Sabio, Construtor, Guerreiro (oculto). Desmonta sistemas ate achar a falha. Domina o ambiente com regras proprias.
+**INTJ-A** — 2% da populacao. TEA nivel 1 (Asperger) + Altas Habilidades/Superdotacao. Arquetipos: Estrategista (primario), Sabio, Construtor, Guerreiro (oculto). Desmonta sistemas ate achar a falha. Domina o ambiente com regras proprias.
 
 ---
 
