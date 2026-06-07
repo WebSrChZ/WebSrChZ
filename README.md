@@ -7,7 +7,10 @@ aka: SrChZ
 tipo: INTJ-A — O Arquiteto
 titulo: Arquiteto de Ecossistemas Digitais
 empresa: SrChZ Technologies
+formacao: PROA, Educacao Fisica
+localizacao: Claudio/Divinopolis, MG
 modo: empresario, nao freelancer
+estetica: Dark Tech
 ```
 
 <br>
@@ -20,6 +23,7 @@ modo: empresario, nao freelancer
 
 [![Biografia Musical](https://img.shields.io/badge/Biografia_Musical-ouça_a_trilha-8b5cf6?style=for-the-badge&logo=spotify&logoColor=white)](https://websrchz.github.io/BiografiaMusical/)
 [![ITS Power](https://img.shields.io/badge/ITS_Power-portal-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://websrchz.github.io/its-power-hub/)
+[![Instagram](https://img.shields.io/badge/@websrchz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/websrchz)
 [![Email](https://img.shields.io/badge/Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelhenriquecsantosz@gmail.com)
 
 </div>
@@ -28,11 +32,11 @@ modo: empresario, nao freelancer
 
 ### // identidade
 
-Fundador da **SrChZ Technologies**. Construo ecossistemas digitais — portais, automacoes, producao audiovisual — para negocios que querem crescer com estrategia, nao com sorte.
+Fundador da **SrChZ Technologies**. Construo ecossistemas digitais — portais, automacoes, producao audiovisual — para negocios que querem crescer com estrategia, nao com sorte. Nao vendo video. Vendo **presenca digital, posicionamento e resultado**.
 
-Nao me defino pelo que faco. Defino pelo que entendo. Profissoes sao ferramentas, nao identidade. O video e o veiculo. O codigo e a ferramenta. O que importa e o que se constroi com tudo isso — **presenca, posicionamento, resultado**.
+Nao me defino pelo que faco. Defino pelo que entendo. Profissoes sao ferramentas, nao identidade. Estrategia: **Descoberta de Narrativa** — primeiro descobre qual narrativa gera mais atencao, depois escala valor.
 
-**INTJ-A** — 2% da populacao. Observador. Estrategista. Solucionador. Desmonta sistemas ate achar a falha. Pensa em ecossistemas, nao em tarefas.
+**INTJ-A** — 2% da populacao. Arquetipos: Estrategista (primario), Sabio, Construtor, Guerreiro (oculto). Desmonta sistemas ate achar a falha. Domina o ambiente com regras proprias.
 
 ---
 
