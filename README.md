@@ -43,7 +43,7 @@ estética: Dark Tech
 
 ### // identidade
 
-Fundador da **SrChZ Technologies**. Construo ecossistemas digitais — portais, automações, produção audiovisual — para negócios que querem crescer com estratégia, não com sorte. Não vendo vídeo. Vendo **presença digital, posicionamento e resultado**.
+Fundador da **SrChZ Technologies**. Construo ecossistemas digitais — portais, produção audiovisual — e atuo em **engenharia computacional, mecânica e ferroviária**. Para negócios (e projetos) que querem crescer com estratégia, não com sorte. Não vendo vídeo. Vendo **presença digital, posicionamento e resultado**.
 
 Trilíngue (PT/EN/JP). Ex-Meta CX Specialist III (Senior). Cursando Engenharia da Computação + Psicanálise na UNINTER. Não me defino pelo que faço. Defino pelo que entendo. Profissões são ferramentas, não identidade. Estratégia: **Descoberta de Narrativa** — primeiro descubro qual narrativa gera mais atenção, depois escalo valor.
 
@@ -79,9 +79,9 @@ Roteiro, captação e edição de vídeo para redes sociais.
 </td>
 <td align="center" width="180">
 
-**⚙️ Automações**
+**🔧 Engenharia**
 
-Pipelines, integrações e ferramentas sob medida.
+Computacional, mecânica e ferroviária.
 
 </td>
 </tr>
