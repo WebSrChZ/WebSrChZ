@@ -1,19 +1,27 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Arquiteto+de+Ecossistemas+Digitais;Perception%2C+Strategy+%26+Execution;Descoberta+de+Narrativa+%E2%86%92+Escala+de+Valor;Solving+what+most+people+overlook" alt="SrChZ" />
+
+![Profile views](https://komarev.com/ghpvc/?username=WebSrChZ&label=Visitas%20no%20perfil&color=8b5cf6&style=flat-square)
+
+</div>
+
+<div align="center">
+
 ```
-// quem e esse cara
+// quem é esse cara
 nome: Rafael Henrique Cordeiro Santos
 aka: SrChZ
 tipo: INTJ-A — O Arquiteto
-titulo: Arquiteto de Ecossistemas Digitais
+título: Arquiteto de Ecossistemas Digitais
 empresa: SrChZ Technologies
-formacao: Eng. Computacao, Ed. Fisica, Pedagogia, Psicanalise
+formação: Eng. Computação, Ed. Física, Pedagogia, Psicanálise
 idiomas: PT (nativo), EN (C1), JP (A2)
-experiencia: Meta — CX Specialist III (Senior)
-neurodivergencia: TEA nivel 1 (Asperger) + AH/SD (superdotacao)
-localizacao: Claudio/Divinopolis, MG
-modo: empresario, nao freelancer
-estetica: Dark Tech
+experiência: Meta — CX Specialist III (Senior)
+neurodivergência: TEA nível 1 (Asperger) + AH/SD (superdotação)
+localização: Cláudio / Divinópolis, MG
+modo: empresário, não freelancer
+estética: Dark Tech
 ```
 
 <br>
@@ -35,11 +43,50 @@ estetica: Dark Tech
 
 ### // identidade
 
-Fundador da **SrChZ Technologies**. Construo ecossistemas digitais — portais, automacoes, producao audiovisual — para negocios que querem crescer com estrategia, nao com sorte. Nao vendo video. Vendo **presenca digital, posicionamento e resultado**.
+Fundador da **SrChZ Technologies**. Construo ecossistemas digitais — portais, automações, produção audiovisual — para negócios que querem crescer com estratégia, não com sorte. Não vendo vídeo. Vendo **presença digital, posicionamento e resultado**.
 
-Trilingue (PT/EN/JP). Ex-Meta CX Specialist III (Senior). Cursando Engenharia da Computacao + Psicanalise na UNINTER. Nao me defino pelo que faco. Defino pelo que entendo. Profissoes sao ferramentas, nao identidade. Estrategia: **Descoberta de Narrativa** — primeiro descobre qual narrativa gera mais atencao, depois escala valor.
+Trilíngue (PT/EN/JP). Ex-Meta CX Specialist III (Senior). Cursando Engenharia da Computação + Psicanálise na UNINTER. Não me defino pelo que faço. Defino pelo que entendo. Profissões são ferramentas, não identidade. Estratégia: **Descoberta de Narrativa** — primeiro descubro qual narrativa gera mais atenção, depois escalo valor.
 
-**INTJ-A** — 2% da populacao. TEA nivel 1 (Asperger) + Altas Habilidades/Superdotacao. Arquetipos: Estrategista (primario), Sabio, Construtor, Guerreiro (oculto). Desmonta sistemas ate achar a falha. Domina o ambiente com regras proprias.
+**INTJ-A** — 2% da população. TEA nível 1 (Asperger) + Altas Habilidades/Superdotação. Arquétipos: Estrategista (primário), Sábio, Construtor, Guerreiro (oculto). Desmonto sistemas até achar a falha. Domino o ambiente com regras próprias.
+
+---
+
+### // o que eu construo
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="180">
+
+**🌐 Web & Portais**
+
+Sites, SaaS e portais de cliente — do design ao deploy contínuo.
+
+</td>
+<td align="center" width="180">
+
+**📈 Growth & Tráfego**
+
+Estratégia de conteúdo, Meta Ads e posicionamento de marca.
+
+</td>
+<td align="center" width="180">
+
+**🎬 Audiovisual**
+
+Roteiro, captação e edição de vídeo para redes sociais.
+
+</td>
+<td align="center" width="180">
+
+**⚙️ Automações**
+
+Pipelines, integrações e ferramentas sob medida.
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -73,9 +120,9 @@ Trilingue (PT/EN/JP). Ex-Meta CX Specialist III (Senior). Cursando Engenharia da
 
 **[ITS Power — Portal do Projeto](https://websrchz.github.io/its-power-hub/)**
 
-Portal SaaS para gestao de conteudo digital. Dashboard com calendario editorial, sistema de feedback, notificacoes em tempo real via Supabase Realtime, e deploy automatico via GitHub Pages.
+Portal SaaS para gestão de conteúdo digital. Dashboard com calendário editorial, sistema de feedback, notificações em tempo real via Supabase Realtime, PWA instalável e deploy automático via GitHub Pages.
 
-`JavaScript` `Supabase` `Realtime` `GitHub Actions`
+`JavaScript` `Supabase` `Realtime` `PWA` `GitHub Actions`
 
 </td>
 </tr>
@@ -87,7 +134,7 @@ Portal SaaS para gestao de conteudo digital. Dashboard com calendario editorial,
 
 **[Biografia Musical](https://websrchz.github.io/BiografiaMusical/)**
 
-Uma biografia interativa construida com a trilha sonora que me define. 2.934 musicas curtidas, slowed + reverb, phonk, trap BR. Nao e sobre o que eu faco — e sobre quem eu sou.
+Uma biografia interativa construída com a trilha sonora que me define. 2.934 músicas curtidas, slowed + reverb, phonk, trap BR. Não é sobre o que eu faço — é sobre quem eu sou.
 
 `HTML` `CSS` `JavaScript` `Spotify`
 
@@ -97,23 +144,34 @@ Uma biografia interativa construida com a trilha sonora que me define. 2.934 mus
 
 ---
 
+### // métricas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=WebSrChZ&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebSrChZ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WebSrChZ&theme=tokyonight&hide_border=true" alt="Streak" />
+
+</div>
+
+---
+
 ### // vibe
 
 ```
-tocando_agora: Lembranca — MC Menor da L, MACIH
-generos: slowed + reverb, phonk, trap BR
+tocando_agora: Lembrança — MC Menor da L, MACIH
+gêneros: slowed + reverb, phonk, trap BR
 artistas: LONOWN, ptasinski, riserayss, IZA, Ana Castela
-musicas_curtidas: 2.934
+músicas_curtidas: 2.934
 ```
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WebSrChZ&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true)
-
-<br>
-
-*"A fe e a expectativa certa de coisas esperadas, a demonstracao evidente de realidades que nao se veem." — Hebreus 11:1*
+*"A fé é a expectativa certa de coisas esperadas, a demonstração evidente de realidades que não se veem." — Hebreus 11:1*
 
 </div>
