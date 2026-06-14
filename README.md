@@ -109,6 +109,19 @@ Computacional, mecânica e ferroviária.
 
 ---
 
+### // trajetória
+
+```
+2025 → hoje   SrChZ Technologies — Fundador · ecossistemas digitais + engenharia
+2024 → 2025   Meta — CX Bilingual Specialist III (Senior)
+2023 → 2024   FGTECH — Inspetor de Qualidade
+2019 → 2021   RedeTec Play — Técnico de TI
+```
+
+Engenharia da Computação + Psicanálise (UNINTER) · Ed. Física · Pedagogia. Trilíngue: PT (nativo), EN (C1), JP (A2). Comecei cedo — TI aos 14, sênior numa big tech aos 20.
+
+---
+
 ### // projetos
 
 <table>
