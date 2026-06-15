@@ -16,7 +16,7 @@ tipo: INTJ-A — O Arquiteto
 título: Arquiteto de Ecossistemas Digitais
 empresa: SrChZ Technologies
 formação: Eng. Computação, Ed. Física, Pedagogia, Psicanálise
-idiomas: PT (nativo), EN (C1), JP (A2)
+idiomas: PT (nativo), EN (C2), JP (básico)
 experiência: CX bilíngue (plataformas Meta) · END industrial · web
 neurodivergência: TEA nível 1 (Asperger) + AH/SD (superdotação)
 localização: Cláudio / Divinópolis, MG
