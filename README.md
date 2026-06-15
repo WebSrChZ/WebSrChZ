@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&lines=Solucionador+de+Problemas;Solving+what+most+people+overlook;An%C3%A1lise+%E2%86%92+Estrat%C3%A9gia+%E2%86%92+Execu%C3%A7%C3%A3o;Freelance%3A+AI+Training+%26+Tech" alt="SrChZ" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&lines=Estrategista+de+Solu%C3%A7%C3%B5es;Solutions+Strategist;An%C3%A1lise+%E2%86%92+Estrat%C3%A9gia+%E2%86%92+Execu%C3%A7%C3%A3o;Solving+what+most+people+overlook" alt="SrChZ" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=WebSrChZ&label=Visitas%20no%20perfil&color=8b5cf6&style=flat-square)
 
@@ -13,12 +13,12 @@
 nome: Rafael Henrique Cordeiro Santos
 aka: SrChZ
 tipo: INTJ-A — O Arquiteto
-título: Solucionador de Problemas · Consultor multidisciplinar
+título: Estrategista de Soluções · Solutions Strategist
 empresa: SrChZ Technologies
 formação: Eng. Computação + Psicanálise (UNINTER)
 idiomas: PT (nativo), EN (C2), JP (básico)
-atua_em: IA & dados, tecnologia, estratégia, visual, engenharia
-disponível: freelance & consultoria — AI Training em destaque
+atua_em: estratégia, tecnologia, visual, dados & IA, engenharia
+disponível: freelance & consultoria — resolvo problemas, não vendo tarefas
 localização: Cláudio / Divinópolis, MG (remoto)
 estética: Dark Tech
 ```
@@ -27,7 +27,8 @@ estética: Dark Tech
 
 # SrChZ
 
-**Solucionador de Problemas — me chamam pra resolver o que ninguém destrava.**
+**Estrategista de Soluções · Solutions Strategist**
+<br><sub>Me chamam pra resolver o que ninguém destrava — independente da categoria.</sub>
 
 *"⚜️ 𝙿𝚎𝚛𝚌𝚎𝚙𝚝𝚒𝚘𝚗, 𝚂𝚝𝚛𝚊𝚝𝚎𝚐𝚢 & 𝙴𝚡𝚎𝚌𝚞𝚝𝚒𝚘𝚗 — 𝚂𝚘𝚕𝚟𝚒𝚗𝚐 𝚠𝚑𝚊𝚝 𝚖𝚘𝚜𝚝 𝚙𝚎𝚘𝚙𝚕𝚎 𝚘𝚟𝚎𝚛𝚕𝚘𝚘𝚔."*
 
@@ -61,9 +62,9 @@ Fundador da **SrChZ Technologies**. Trilíngue (PT nativo · EN C2 · JP básico
 <tr>
 <td align="center" width="180">
 
-**🤖 IA & Dados**
+**📈 Estratégia & Análise**
 
-Treinamento e avaliação de IA, RLHF, comparação de respostas, prompt engineering, análise de padrões.
+Leitura de padrões, comparação de cenários, posicionamento de marca, tráfego pago.
 
 </td>
 <td align="center" width="180">
@@ -75,16 +76,16 @@ Sites, portais SaaS, automações e integrações — do design ao deploy.
 </td>
 <td align="center" width="180">
 
-**📈 Estratégia & Growth**
+**🎬 Visual**
 
-Posicionamento de marca, tráfego pago (Meta Ads) e conteúdo.
+Roteiro, captação e edição de vídeo, design e identidade.
 
 </td>
 <td align="center" width="180">
 
-**🎬 Visual**
+**🤖 Dados & IA**
 
-Roteiro, captação e edição de vídeo, design e identidade.
+Avaliação e treinamento de IA, prompt engineering, análise de qualidade.
 
 </td>
 </tr>
@@ -95,9 +96,9 @@ Roteiro, captação e edição de vídeo, design e identidade.
 
 ### // disponível para
 
-> **Procurando alguém pra resolver uma demanda?** Estou aberto a **freelance e consultoria** — com destaque para **treinamento e avaliação de IA** (AI training, RLHF, model evaluation, prompt engineering): raciocínio analítico, multidisciplinaridade e inglês C2 para julgar nuance e dar feedback estruturado.
+> **Tem algo travado que ninguém resolve?** Estou aberto a **freelance e consultoria** — estratégia, tecnologia, produção visual, dados & IA. Levo o mesmo método pra qualquer frente: entender a fundo, achar a causa raiz e entregar a solução.
 
-Também pego projetos pontuais de tecnologia, estratégia digital e produção visual. Se algo tá travado e ninguém resolve, [me chama](mailto:rafaelhenriquecsantosz@gmail.com).
+Multidisciplinar de verdade, raciocínio analítico e inglês C2. Se a demanda exige alguém que **pensa antes de executar**, [me chama](mailto:rafaelhenriquecsantosz@gmail.com).
 
 ---
 
