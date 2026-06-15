@@ -1,91 +1,91 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&lines=Estrategista+de+Solu%C3%A7%C3%B5es;Solutions+Strategist;An%C3%A1lise+%E2%86%92+Estrat%C3%A9gia+%E2%86%92+Execu%C3%A7%C3%A3o;Solving+what+most+people+overlook" alt="SrChZ" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&lines=Solutions+Strategist;Analysis+%E2%86%92+Strategy+%E2%86%92+Execution;Solving+what+most+people+overlook;I+fix+what+others+leave+stuck" alt="SrChZ" />
 
-![Profile views](https://komarev.com/ghpvc/?username=WebSrChZ&label=Visitas%20no%20perfil&color=8b5cf6&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=WebSrChZ&label=Profile%20views&color=8b5cf6&style=flat-square)
 
 </div>
 
 <div align="center">
 
 ```
-// quem é esse cara
-nome: Rafael Henrique Cordeiro Santos
-aka: SrChZ
-tipo: INTJ-A — O Arquiteto
-título: Estrategista de Soluções · Solutions Strategist
-empresa: SrChZ Technologies
-formação: Eng. Computação + Psicanálise (UNINTER)
-idiomas: PT (nativo), EN (C2), JP (básico)
-atua_em: estratégia, tecnologia, visual, dados & IA, engenharia
-disponível: freelance & consultoria — resolvo problemas, não vendo tarefas
-localização: Cláudio / Divinópolis, MG (remoto)
-estética: Dark Tech
+// whoami
+name:       Rafael Henrique Cordeiro Santos
+aka:        SrChZ
+type:       INTJ-A — The Architect
+title:      Solutions Strategist
+company:    SrChZ Technologies
+education:  Computer Engineering + Psychoanalysis (UNINTER)
+languages:  PT (native), EN (C2), JP (basic)
+works_in:   strategy, technology, visual, data & AI, engineering
+available:  freelance & consulting — I solve problems, not sell tasks
+location:   Cláudio / Divinópolis, Brazil (remote)
+aesthetic:  Dark Tech
 ```
 
 <br>
 
 # SrChZ
 
-**Estrategista de Soluções · Solutions Strategist**
-<br><sub>Me chamam pra resolver o que ninguém destrava — independente da categoria.</sub>
+**Solutions Strategist**
+<br><sub>Called in to fix what no one else can crack — whatever the field.</sub>
 
 *"⚜️ 𝙿𝚎𝚛𝚌𝚎𝚙𝚝𝚒𝚘𝚗, 𝚂𝚝𝚛𝚊𝚝𝚎𝚐𝚢 & 𝙴𝚡𝚎𝚌𝚞𝚝𝚒𝚘𝚗 — 𝚂𝚘𝚕𝚟𝚒𝚗𝚐 𝚠𝚑𝚊𝚝 𝚖𝚘𝚜𝚝 𝚙𝚎𝚘𝚙𝚕𝚎 𝚘𝚟𝚎𝚛𝚕𝚘𝚘𝚔."*
 
-[![Biografia Musical](https://img.shields.io/badge/Biografia_Musical-ouça_a_trilha-8b5cf6?style=for-the-badge&logo=spotify&logoColor=white)](https://websrchz.github.io/BiografiaMusical/)
+[![Musical Biography](https://img.shields.io/badge/Musical_Biography-listen-8b5cf6?style=for-the-badge&logo=spotify&logoColor=white)](https://websrchz.github.io/BiografiaMusical/)
 [![ITS Power](https://img.shields.io/badge/ITS_Power-portal-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://websrchz.github.io/its-power-hub/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/websrchz)
 [![Instagram](https://img.shields.io/badge/@websrchz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/websrchz)
-[![Email](https://img.shields.io/badge/Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelhenriquecsantosz@gmail.com)
+[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelhenriquecsantosz@gmail.com)
 
 </div>
 
 ---
 
-### // identidade
+### // identity
 
-Me chamam pra **resolver o que ninguém consegue destravar** — independente da categoria. Já atuei em engenharia ferroviária/industrial, tecnologia, marketing e tráfego pago, produção visual e experiência do cliente. O domínio muda; o método não: **leio padrões, comparo cenários, monto a estratégia e executo com estética.**
+People call me in to **solve what no one else can crack** — whatever the field. I've worked across railway/industrial engineering, technology, marketing and paid traffic, visual production, and customer experience. The domain changes; the method doesn't: **I read patterns, compare scenarios, build the strategy, and execute with aesthetics.**
 
-Minha vantagem é enxergar o que a maioria deixa passar. Pego demandas ambíguas, desmonto o mecanismo até a causa raiz e devolvo uma solução clara — principalmente no **digital e tecnológico**, onde análise, estratégia e estética se encontram.
+My edge is seeing what most people overlook. I take ambiguous problems, break the mechanism down to its root cause, and return a clear solution — mainly in the **digital and tech space**, where analysis, strategy, and aesthetics meet.
 
-Fundador da **SrChZ Technologies**. Trilíngue (PT nativo · EN C2 · JP básico). Engenharia da Computação + Psicanálise (UNINTER). **INTJ-A** — penso em sistemas, não em tarefas. Não me defino pelo que faço; defino pelo que entendo. Profissões são ferramentas — o que entrego é solução.
+Founder of **SrChZ Technologies**. Trilingual (PT native · EN C2 · JP basic). Computer Engineering + Psychoanalysis (UNINTER). **INTJ-A** — I think in systems, not tasks. I don't define myself by what I do; I define myself by what I understand. Job titles are tools — what I deliver is the solution.
 
 ---
 
-### // o que eu resolvo
+### // what i solve
 
 <div align="center">
 
-*Do digital à engenharia industrial — o domínio não me limita.*
+*From digital to industrial engineering — the domain doesn't limit me.*
 
 <table>
 <tr>
 <td align="center" width="180">
 
-**📈 Estratégia & Análise**
+**📈 Strategy & Analysis**
 
-Leitura de padrões, comparação de cenários, posicionamento de marca, tráfego pago.
+Pattern reading, scenario comparison, brand positioning, paid traffic.
 
 </td>
 <td align="center" width="180">
 
-**🌐 Tecnologia**
+**🌐 Technology**
 
-Sites, portais SaaS, automações e integrações — do design ao deploy.
+Websites, SaaS portals, automation and integrations — design to deploy.
 
 </td>
 <td align="center" width="180">
 
 **🎬 Visual**
 
-Roteiro, captação e edição de vídeo, design e identidade.
+Scripting, filming and video editing, design and identity.
 
 </td>
 <td align="center" width="180">
 
-**🤖 Dados & IA**
+**🤖 Data & AI**
 
-Avaliação e treinamento de IA, prompt engineering, análise de qualidade.
+AI evaluation and training, prompt engineering, quality analysis.
 
 </td>
 </tr>
@@ -94,11 +94,11 @@ Avaliação e treinamento de IA, prompt engineering, análise de qualidade.
 
 ---
 
-### // disponível para
+### // available for
 
-> **Tem algo travado que ninguém resolve?** Estou aberto a **freelance e consultoria** — estratégia, tecnologia, produção visual, dados & IA. Levo o mesmo método pra qualquer frente: entender a fundo, achar a causa raiz e entregar a solução.
+> **Got something stuck that no one can solve?** I'm open to **freelance and consulting** — strategy, technology, visual production, data & AI. I bring the same method to any field: understand it deeply, find the root cause, deliver the solution.
 
-Multidisciplinar de verdade, raciocínio analítico e inglês C2. Se a demanda exige alguém que **pensa antes de executar**, [me chama](mailto:rafaelhenriquecsantosz@gmail.com).
+Genuinely multidisciplinary, analytical, and fluent in English (C2). If the problem needs someone who **thinks before executing**, [reach out](mailto:rafaelhenriquecsantosz@gmail.com).
 
 ---
 
@@ -121,21 +121,21 @@ Multidisciplinar de verdade, raciocínio analítico e inglês C2. Se a demanda e
 
 ---
 
-### // trajetória
+### // background
 
 ```
-2025 → hoje   SrChZ Technologies — Fundador · web, growth & audiovisual
-2023 → hoje   FGTECH — Técnico de Ensaios Não Destrutivos (END · NR13/12/34, ultrassom)
-2024 → 2025   Atento — CX Specialist Bilíngue · plataformas Meta
+2025 → now    SrChZ Technologies — Founder · web, growth & audiovisual
+2023 → now    FGTECH — Non-Destructive Testing Technician (NDT · NR13/12/34, ultrasonic)
+2024 → 2025   Atento — Bilingual CX Specialist · Meta platforms
 2021 → 2022   Impérium — Social Media Manager (freelance)
-2019 → 2021   RedeTec Play — Técnico de Informática
+2019 → 2021   RedeTec Play — Computer Technician
 ```
 
-Engenharia da Computação + Psicanálise (UNINTER). Inglês **C2** (EF SET) · Japonês básico. Certificado em **Design Thinking** (University of Sydney). Comecei cedo — TI aos 14, primeira renda com design e CX antes dos 20.
+Computer Engineering + Psychoanalysis (UNINTER). English **C2** (EF SET) · basic Japanese. Certified in **Design Thinking** (University of Sydney). Started early — IT at 14, first income from design and CX before 20.
 
 ---
 
-### // projetos
+### // projects
 
 <table>
 <tr>
@@ -144,9 +144,9 @@ Engenharia da Computação + Psicanálise (UNINTER). Inglês **C2** (EF SET) · 
 </td>
 <td>
 
-**[ITS Power — Portal do Projeto](https://websrchz.github.io/its-power-hub/)**
+**[ITS Power — Project Portal](https://websrchz.github.io/its-power-hub/)**
 
-Portal SaaS para gestão de conteúdo digital. Dashboard com calendário editorial, sistema de feedback, notificações em tempo real via Supabase Realtime, PWA instalável e deploy automático via GitHub Pages.
+Client-facing SaaS portal for digital content management. Dashboard with editorial calendar, feedback system, real-time notifications via Supabase Realtime, installable PWA, and automatic deploy through GitHub Pages.
 
 `JavaScript` `Supabase` `Realtime` `PWA` `GitHub Actions`
 
@@ -154,13 +154,13 @@ Portal SaaS para gestão de conteúdo digital. Dashboard com calendário editori
 </tr>
 <tr>
 <td width="120" align="center">
-<img src="https://img.shields.io/badge/♪-8b5cf6?style=for-the-badge" width="50" alt="Biografia Musical"/>
+<img src="https://img.shields.io/badge/♪-8b5cf6?style=for-the-badge" width="50" alt="Musical Biography"/>
 </td>
 <td>
 
-**[Biografia Musical](https://websrchz.github.io/BiografiaMusical/)**
+**[Musical Biography](https://websrchz.github.io/BiografiaMusical/)**
 
-Uma biografia interativa construída com a trilha sonora que me define. 2.934 músicas curtidas, slowed + reverb, phonk, trap BR. Não é sobre o que eu faço — é sobre quem eu sou.
+An interactive biography built from the soundtrack that defines me. 2,934 liked songs — slowed + reverb, phonk, Brazilian trap. Not about what I do — about who I am.
 
 `HTML` `CSS` `JavaScript` `Spotify`
 
@@ -170,7 +170,7 @@ Uma biografia interativa construída com a trilha sonora que me define. 2.934 m�
 
 ---
 
-### // métricas
+### // metrics
 
 <div align="center">
 
@@ -188,16 +188,16 @@ Uma biografia interativa construída com a trilha sonora que me define. 2.934 m�
 ### // vibe
 
 ```
-tocando_agora: Lembrança — MC Menor da L, MACIH
-gêneros: slowed + reverb, phonk, trap BR
-artistas: LONOWN, ptasinski, riserayss, IZA, Ana Castela
-músicas_curtidas: 2.934
+now_playing:  Lembrança — MC Menor da L, MACIH
+genres:       slowed + reverb, phonk, Brazilian trap
+artists:      LONOWN, ptasinski, riserayss, IZA, Ana Castela
+liked_songs:  2,934
 ```
 
 ---
 
 <div align="center">
 
-*"A fé é a expectativa certa de coisas esperadas, a demonstração evidente de realidades que não se veem." — Hebreus 11:1*
+*"Faith is the assured expectation of what is hoped for, the evident demonstration of realities that are not seen." — Hebrews 11:1*
 
 </div>
