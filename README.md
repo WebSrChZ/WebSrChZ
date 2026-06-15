@@ -34,6 +34,7 @@ estética: Dark Tech
 
 [![Biografia Musical](https://img.shields.io/badge/Biografia_Musical-ouça_a_trilha-8b5cf6?style=for-the-badge&logo=spotify&logoColor=white)](https://websrchz.github.io/BiografiaMusical/)
 [![ITS Power](https://img.shields.io/badge/ITS_Power-portal-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://websrchz.github.io/its-power-hub/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/websrchz)
 [![Instagram](https://img.shields.io/badge/@websrchz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/websrchz)
 [![Email](https://img.shields.io/badge/Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelhenriquecsantosz@gmail.com)
 
