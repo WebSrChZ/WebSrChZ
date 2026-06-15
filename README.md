@@ -17,7 +17,7 @@ título: Arquiteto de Ecossistemas Digitais
 empresa: SrChZ Technologies
 formação: Eng. Computação, Ed. Física, Pedagogia, Psicanálise
 idiomas: PT (nativo), EN (C1), JP (A2)
-experiência: Meta — CX Specialist III (Senior)
+experiência: CX bilíngue (plataformas Meta) · END industrial · web
 neurodivergência: TEA nível 1 (Asperger) + AH/SD (superdotação)
 localização: Cláudio / Divinópolis, MG
 modo: empresário, não freelancer
@@ -45,7 +45,7 @@ estética: Dark Tech
 
 Fundador da **SrChZ Technologies**. Construo ecossistemas digitais — portais, produção audiovisual — e atuo em **engenharia computacional, mecânica e ferroviária**. Para negócios (e projetos) que querem crescer com estratégia, não com sorte. Não vendo vídeo. Vendo **presença digital, posicionamento e resultado**.
 
-Trilíngue (PT/EN/JP). Ex-Meta CX Specialist III (Senior). Cursando Engenharia da Computação + Psicanálise na UNINTER. Não me defino pelo que faço. Defino pelo que entendo. Profissões são ferramentas, não identidade. Estratégia: **Descoberta de Narrativa** — primeiro descubro qual narrativa gera mais atenção, depois escalo valor.
+Trilíngue (PT/EN/JP, inglês C2). CX bilíngue para plataformas Meta, técnico de ensaios não destrutivos e cursando Engenharia da Computação + Psicanálise na UNINTER. Não me defino pelo que faço. Defino pelo que entendo. Profissões são ferramentas, não identidade. Estratégia: **Descoberta de Narrativa** — primeiro descubro qual narrativa gera mais atenção, depois escalo valor.
 
 **INTJ-A** — 2% da população. TEA nível 1 (Asperger) + Altas Habilidades/Superdotação. Arquétipos: Estrategista (primário), Sábio, Construtor, Guerreiro (oculto). Desmonto sistemas até achar a falha. Domino o ambiente com regras próprias.
 
@@ -112,13 +112,14 @@ Computacional, mecânica e ferroviária.
 ### // trajetória
 
 ```
-2025 → hoje   SrChZ Technologies — Fundador · ecossistemas digitais + engenharia
-2024 → 2025   Meta — CX Bilingual Specialist III (Senior)
-2023 → 2024   FGTECH — Inspetor de Qualidade
-2019 → 2021   RedeTec Play — Técnico de TI
+2025 → hoje   SrChZ Technologies — Fundador · web, growth & audiovisual
+2023 → hoje   FGTECH — Técnico de Ensaios Não Destrutivos (END · NR13/12/34, ultrassom)
+2024 → 2025   Atento — CX Specialist Bilíngue · plataformas Meta
+2021 → 2022   Impérium — Social Media Manager (freelance)
+2019 → 2021   RedeTec Play — Técnico de Informática
 ```
 
-Engenharia da Computação + Psicanálise (UNINTER) · Ed. Física · Pedagogia. Trilíngue: PT (nativo), EN (C1), JP (A2). Comecei cedo — TI aos 14, sênior numa big tech aos 20.
+Engenharia da Computação + Psicanálise (UNINTER). Inglês **C2** (EF SET) · Japonês básico. Certificado em **Design Thinking** (University of Sydney). Comecei cedo — TI aos 14, primeira renda com design e CX antes dos 20.
 
 ---
 
