@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Arquiteto+de+Ecossistemas+Digitais;Perception%2C+Strategy+%26+Execution;Descoberta+de+Narrativa+%E2%86%92+Escala+de+Valor;Solving+what+most+people+overlook" alt="SrChZ" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&lines=Solucionador+de+Problemas;Solving+what+most+people+overlook;An%C3%A1lise+%E2%86%92+Estrat%C3%A9gia+%E2%86%92+Execu%C3%A7%C3%A3o;Freelance%3A+AI+Training+%26+Tech" alt="SrChZ" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=WebSrChZ&label=Visitas%20no%20perfil&color=8b5cf6&style=flat-square)
 
@@ -13,14 +13,13 @@
 nome: Rafael Henrique Cordeiro Santos
 aka: SrChZ
 tipo: INTJ-A — O Arquiteto
-título: Arquiteto de Ecossistemas Digitais
+título: Solucionador de Problemas · Consultor multidisciplinar
 empresa: SrChZ Technologies
-formação: Eng. Computação, Ed. Física, Pedagogia, Psicanálise
+formação: Eng. Computação + Psicanálise (UNINTER)
 idiomas: PT (nativo), EN (C2), JP (básico)
-experiência: CX bilíngue (plataformas Meta) · END industrial · web
-neurodivergência: TEA nível 1 (Asperger) + AH/SD (superdotação)
-localização: Cláudio / Divinópolis, MG
-modo: empresário, não freelancer
+atua_em: IA & dados, tecnologia, estratégia, visual, engenharia
+disponível: freelance & consultoria — AI Training em destaque
+localização: Cláudio / Divinópolis, MG (remoto)
 estética: Dark Tech
 ```
 
@@ -28,7 +27,7 @@ estética: Dark Tech
 
 # SrChZ
 
-**Arquiteto de Ecossistemas Digitais**
+**Solucionador de Problemas — me chamam pra resolver o que ninguém destrava.**
 
 *"⚜️ 𝙿𝚎𝚛𝚌𝚎𝚙𝚝𝚒𝚘𝚗, 𝚂𝚝𝚛𝚊𝚝𝚎𝚐𝚢 & 𝙴𝚡𝚎𝚌𝚞𝚝𝚒𝚘𝚗 — 𝚂𝚘𝚕𝚟𝚒𝚗𝚐 𝚠𝚑𝚊𝚝 𝚖𝚘𝚜𝚝 𝚙𝚎𝚘𝚙𝚕𝚎 𝚘𝚟𝚎𝚛𝚕𝚘𝚘𝚔."*
 
@@ -44,50 +43,61 @@ estética: Dark Tech
 
 ### // identidade
 
-Fundador da **SrChZ Technologies**. Construo ecossistemas digitais — portais, produção audiovisual — e atuo em **engenharia computacional, mecânica e ferroviária**. Para negócios (e projetos) que querem crescer com estratégia, não com sorte. Não vendo vídeo. Vendo **presença digital, posicionamento e resultado**.
+Me chamam pra **resolver o que ninguém consegue destravar** — independente da categoria. Já atuei em engenharia ferroviária/industrial, tecnologia, marketing e tráfego pago, produção visual e experiência do cliente. O domínio muda; o método não: **leio padrões, comparo cenários, monto a estratégia e executo com estética.**
 
-Trilíngue (PT/EN/JP, inglês C2). CX bilíngue para plataformas Meta, técnico de ensaios não destrutivos e cursando Engenharia da Computação + Psicanálise na UNINTER. Não me defino pelo que faço. Defino pelo que entendo. Profissões são ferramentas, não identidade. Estratégia: **Descoberta de Narrativa** — primeiro descubro qual narrativa gera mais atenção, depois escalo valor.
+Minha vantagem é enxergar o que a maioria deixa passar. Pego demandas ambíguas, desmonto o mecanismo até a causa raiz e devolvo uma solução clara — principalmente no **digital e tecnológico**, onde análise, estratégia e estética se encontram.
 
-**INTJ-A** — 2% da população. TEA nível 1 (Asperger) + Altas Habilidades/Superdotação. Arquétipos: Estrategista (primário), Sábio, Construtor, Guerreiro (oculto). Desmonto sistemas até achar a falha. Domino o ambiente com regras próprias.
+Fundador da **SrChZ Technologies**. Trilíngue (PT nativo · EN C2 · JP básico). Engenharia da Computação + Psicanálise (UNINTER). **INTJ-A** — penso em sistemas, não em tarefas. Não me defino pelo que faço; defino pelo que entendo. Profissões são ferramentas — o que entrego é solução.
 
 ---
 
-### // o que eu construo
+### // o que eu resolvo
 
 <div align="center">
+
+*Do digital à engenharia industrial — o domínio não me limita.*
+
 <table>
 <tr>
 <td align="center" width="180">
 
-**🌐 Web & Portais**
+**🤖 IA & Dados**
 
-Sites, SaaS e portais de cliente — do design ao deploy contínuo.
-
-</td>
-<td align="center" width="180">
-
-**📈 Growth & Tráfego**
-
-Estratégia de conteúdo, Meta Ads e posicionamento de marca.
+Treinamento e avaliação de IA, RLHF, comparação de respostas, prompt engineering, análise de padrões.
 
 </td>
 <td align="center" width="180">
 
-**🎬 Audiovisual**
+**🌐 Tecnologia**
 
-Roteiro, captação e edição de vídeo para redes sociais.
+Sites, portais SaaS, automações e integrações — do design ao deploy.
 
 </td>
 <td align="center" width="180">
 
-**🔧 Engenharia**
+**📈 Estratégia & Growth**
 
-Computacional, mecânica e ferroviária.
+Posicionamento de marca, tráfego pago (Meta Ads) e conteúdo.
+
+</td>
+<td align="center" width="180">
+
+**🎬 Visual**
+
+Roteiro, captação e edição de vídeo, design e identidade.
 
 </td>
 </tr>
 </table>
 </div>
+
+---
+
+### // disponível para
+
+> **Procurando alguém pra resolver uma demanda?** Estou aberto a **freelance e consultoria** — com destaque para **treinamento e avaliação de IA** (AI training, RLHF, model evaluation, prompt engineering): raciocínio analítico, multidisciplinaridade e inglês C2 para julgar nuance e dar feedback estruturado.
+
+Também pego projetos pontuais de tecnologia, estratégia digital e produção visual. Se algo tá travado e ninguém resolve, [me chama](mailto:rafaelhenriquecsantosz@gmail.com).
 
 ---
 
