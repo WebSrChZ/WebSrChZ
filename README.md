@@ -16,7 +16,7 @@ type:       INTJ-A — The Architect
 title:      Solutions Strategist
 company:    SrChZ Technologies
 education:  Computer Engineering + Psychoanalysis (UNINTER)
-languages:  PT (native), EN (C2), JP (basic)
+languages:  PT (native), EN (C2), JP (B1)
 works_in:   strategy, technology, visual, data & AI, engineering
 available:  freelance & consulting — I solve problems, not sell tasks
 location:   Brazil
