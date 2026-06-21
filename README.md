@@ -32,6 +32,7 @@ aesthetic:  Dark Tech
 
 *"⚜️ 𝙿𝚎𝚛𝚌𝚎𝚙𝚝𝚒𝚘𝚗, 𝚂𝚝𝚛𝚊𝚝𝚎𝚐𝚢 & 𝙴𝚡𝚎𝚌𝚞𝚝𝚒𝚘𝚗 — 𝚂𝚘𝚕𝚟𝚒𝚗𝚐 𝚠𝚑𝚊𝚝 𝚖𝚘𝚜𝚝 𝚙𝚎𝚘𝚙𝚕𝚎 𝚘𝚟𝚎𝚛𝚕𝚘𝚘𝚔."*
 
+[![SrChZ Technologies](https://img.shields.io/badge/SrChZ_Technologies-website-c9a24b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://websrchz.github.io/SrChZ-Technologies/)
 [![Musical Biography](https://img.shields.io/badge/Musical_Biography-listen-8b5cf6?style=for-the-badge&logo=spotify&logoColor=white)](https://websrchz.github.io/BiografiaMusical/)
 [![ITS Power](https://img.shields.io/badge/ITS_Power-portal-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://websrchz.github.io/its-power-hub/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/websrchz)
@@ -138,6 +139,20 @@ Computer Engineering + Psychoanalysis (UNINTER). English **C2** (EF SET) · basi
 ### // projects
 
 <table>
+<tr>
+<td width="120" align="center">
+<img src="https://raw.githubusercontent.com/WebSrChZ/SrChZ-Technologies/main/assets/logo-mark.png" width="86" alt="SrChZ Technologies"/>
+</td>
+<td>
+
+**[SrChZ Technologies — Growth & Branding](https://websrchz.github.io/SrChZ-Technologies/)**
+
+My own studio site. *Ecossistemas de Alta Performance* — paid traffic, branding, cinematic video, and a real-time Client Portal as one system. Premium dark/gold one-pager: fully responsive, SEO with JSON-LD, FAQ rich results, and lead capture straight into Supabase.
+
+`HTML` `CSS` `JavaScript` `Supabase` `SEO`
+
+</td>
+</tr>
 <tr>
 <td width="120" align="center">
 <img src="https://raw.githubusercontent.com/WebSrChZ/its-power-hub/master/public/assets/LogoItsPower.jpg" width="80" alt="ITS Power"/>
