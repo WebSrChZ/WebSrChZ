@@ -19,7 +19,7 @@ education:  Computer Engineering + Psychoanalysis (UNINTER)
 languages:  PT (native), EN (C2), JP (basic)
 works_in:   strategy, technology, visual, data & AI, engineering
 available:  freelance & consulting — I solve problems, not sell tasks
-location:   Cláudio / Divinópolis, Brazil (remote)
+location:   Brazil
 aesthetic:  Dark Tech
 ```
 
