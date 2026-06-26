@@ -194,7 +194,7 @@ An interactive biography built from the soundtrack that defines me. 2,934 liked 
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WebSrChZ&theme=tokyonight&hide_border=true" alt="Streak" />
+<img src="https://streak-stats.demolab.com/?user=WebSrChZ&theme=tokyonight&hide_border=true" alt="Streak" />
 
 </div>
 
