@@ -32,7 +32,7 @@ aesthetic:  Dark Tech
 
 *"⚜️ 𝙿𝚎𝚛𝚌𝚎𝚙𝚝𝚒𝚘𝚗, 𝚂𝚝𝚛𝚊𝚝𝚎𝚐𝚢 & 𝙴𝚡𝚎𝚌𝚞𝚝𝚒𝚘𝚗 — 𝚂𝚘𝚕𝚟𝚒𝚗𝚐 𝚠𝚑𝚊𝚝 𝚖𝚘𝚜𝚝 𝚙𝚎𝚘𝚙𝚕𝚎 𝚘𝚟𝚎𝚛𝚕𝚘𝚘𝚔."*
 
-[![SrChZ Technologies](https://img.shields.io/badge/SrChZ_Technologies-website-c9a24b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://websrchz.github.io/SrChZ-Technologies/)
+[![SrChZ Technologies](https://img.shields.io/badge/srchz--technologies.com.br-c9a24b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.srchz-technologies.com.br)
 [![Musical Biography](https://img.shields.io/badge/Musical_Biography-listen-8b5cf6?style=for-the-badge&logo=spotify&logoColor=white)](https://websrchz.github.io/BiografiaMusical/)
 [![ITS Power](https://img.shields.io/badge/ITS_Power-portal-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://websrchz.github.io/its-power-hub/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/websrchz)
@@ -145,9 +145,9 @@ Computer Engineering + Psychoanalysis (UNINTER). English **C2** (EF SET) · basi
 </td>
 <td>
 
-**[SrChZ Technologies — Growth & Branding](https://websrchz.github.io/SrChZ-Technologies/)**
+**[SrChZ Technologies — Solutions Strategist](https://www.srchz-technologies.com.br)**
 
-My own studio site. *Ecossistemas de Alta Performance* — paid traffic, branding, cinematic video, and a real-time Client Portal as one system. Premium dark/gold one-pager: fully responsive, SEO with JSON-LD, FAQ rich results, and lead capture straight into Supabase.
+My umbrella site, now on its own domain with enforced HTTPS. A *Solutions Strategist* hub that routes to each practice: **Branding & Growth** (paid traffic, branding, cinematic video, real-time Client Portal), **Engenharia & END** (ultrasonic NDT + my published certification book), and **Tecnologia & Dados/IA**. Premium dark/gold, fully responsive, SEO with JSON-LD, lead capture into Supabase.
 
 `HTML` `CSS` `JavaScript` `Supabase` `SEO`
 
@@ -178,6 +178,20 @@ Client-facing SaaS portal for digital content management. Dashboard with editori
 An interactive biography built from the soundtrack that defines me. 2,934 liked songs — slowed + reverb, phonk, Brazilian trap. Not about what I do — about who I am.
 
 `HTML` `CSS` `JavaScript` `Spotify`
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center">
+<img src="https://img.shields.io/badge/📖_UT_N2-c9a24b?style=for-the-badge" width="72" alt="Ultrassom Nível II"/>
+</td>
+<td>
+
+**[Ultrassom Nível II — Guia Definitivo de Certificação](https://websrchz.github.io/END/USN2/)**
+
+My technical book on ultrasonic NDT (UT Level II) — **published on Amazon** (Kindle, paperback & hardcover). Acoustic physics, calibration (DAC/TCG/DGS), industrial inspection, and a fully-solved exam. Sales hub with a free Sound Path calculator.
+
+`Book` `NDT` `Ultrasonic Testing` `Amazon KDP`
 
 </td>
 </tr>
