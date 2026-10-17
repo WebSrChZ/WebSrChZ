@@ -14,7 +14,7 @@ name:       Rafael Henrique Cordeiro Santos
 aka:        SrChZ
 type:       INTJ-A — The Architect
 title:      Solutions Strategist
-company:    SrChZ Technologies
+company:    SrChZ Technologies (CNPJ 68.371.698/0001-95)
 education:  Computer Engineering + Psychoanalysis (UNINTER)
 languages:  PT (native), EN (C2), JP (B1)
 works_in:   strategy, technology, visual, data & AI, engineering
@@ -49,7 +49,7 @@ People call me in to **solve what no one else can crack** — whatever the field
 
 My edge is seeing what most people overlook. I take ambiguous problems, break the mechanism down to its root cause, and return a clear solution — mainly in the **digital and tech space**, where analysis, strategy, and aesthetics meet.
 
-Founder of **SrChZ Technologies**. Trilingual (PT native · EN C2 · JP basic). Computer Engineering + Psychoanalysis (UNINTER). **INTJ-A** — I think in systems, not tasks. I don't define myself by what I do; I define myself by what I understand. Job titles are tools — what I deliver is the solution.
+Founder of **SrChZ Technologies** — a registered company (CNPJ 68.371.698/0001-95), not a side project. Trilingual (PT native · EN C2 · JP basic). Computer Engineering + Psychoanalysis (UNINTER). **INTJ-A** — I think in systems, not tasks. I don't define myself by what I do; I define myself by what I understand. Job titles are tools — what I deliver is the solution.
 
 ---
 
@@ -126,6 +126,7 @@ Genuinely multidisciplinary, analytical, and fluent in English (C2). If the prob
 
 ```
 2025 → now    SrChZ Technologies — Founder · web, growth & audiovisual
+              (incorporated 2026 · CNPJ 68.371.698/0001-95)
 2023 → now    FGTECH — Non-Destructive Testing Technician (NDT · NR13/12/34, ultrasonic)
 2024 → 2025   Atento — Bilingual CX Specialist · Meta platforms
 2021 → 2022   Impérium — Social Media Manager (freelance)
@@ -187,7 +188,7 @@ An interactive biography built from the soundtrack that defines me. 2,934 liked 
 </td>
 <td>
 
-**[Ultrassom Nível II — Guia Definitivo de Certificação](https://websrchz.github.io/END/USN2/)**
+**[Ultrassom Nível II — Guia Definitivo de Certificação](https://www.srchz-technologies.com.br/end/USN2/)**
 
 My technical book on ultrasonic NDT (UT Level II) — **published on Amazon** (Kindle, paperback & hardcover). Acoustic physics, calibration (DAC/TCG/DGS), industrial inspection, and a fully-solved exam. Sales hub with a free Sound Path calculator.
 
