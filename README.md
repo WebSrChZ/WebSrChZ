@@ -11,7 +11,7 @@
 ```
 // whoami
 name:       Rafael Henrique Cordeiro Santos
-aka:        SrChZ
+aka:        WebSrChZ ("Web Chaos") · SrChZ ("Chaos")
 type:       INTJ-A — The Architect
 title:      Solutions Strategist
 company:    SrChZ Technologies (CNPJ 68.371.698/0001-95)
@@ -49,7 +49,7 @@ People call me in to **solve what no one else can crack** — whatever the field
 
 My edge is seeing what most people overlook. I take ambiguous problems, break the mechanism down to its root cause, and return a clear solution — mainly in the **digital and tech space**, where analysis, strategy, and aesthetics meet.
 
-Founder of **SrChZ Technologies** — a registered company (CNPJ 68.371.698/0001-95), not a side project. Trilingual (PT native · EN C2 · JP basic). Computer Engineering + Psychoanalysis (UNINTER). **INTJ-A** — I think in systems, not tasks. I don't define myself by what I do; I define myself by what I understand. Job titles are tools — what I deliver is the solution.
+Founder of **SrChZ Technologies** — a registered company (CNPJ 68.371.698/0001-95), not a side project. The names come from *The Chaos Order*: every chaos follows a pattern, and the job is to find it and turn it into a system. **WebSrChZ** reads *"Web Chaos"*; **SrChZ Technologies** reads *"Chaos Technologies"*. Trilingual (PT native · EN C2 · JP basic). Computer Engineering + Psychoanalysis (UNINTER). **INTJ-A** — I think in systems, not tasks. I don't define myself by what I do; I define myself by what I understand. Job titles are tools — what I deliver is the solution.
 
 ---
 
