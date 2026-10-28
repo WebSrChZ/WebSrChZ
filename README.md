@@ -142,7 +142,7 @@ Computer Engineering + Psychoanalysis (UNINTER). English **C2** (EF SET) · basi
 <table>
 <tr>
 <td width="120" align="center">
-<img src="https://raw.githubusercontent.com/WebSrChZ/SrChZ-Technologies/main/assets/logo-mark.png" width="86" alt="SrChZ Technologies"/>
+<img src="https://www.srchz-technologies.com.br/assets/brand/srchz-mark.png" width="86" alt="SrChZ Technologies"/>
 </td>
 <td>
 
@@ -156,7 +156,7 @@ My umbrella site, now on its own domain with enforced HTTPS. A *Solutions Strate
 </tr>
 <tr>
 <td width="120" align="center">
-<img src="https://raw.githubusercontent.com/WebSrChZ/its-power-hub/master/public/assets/LogoItsPower.jpg" width="80" alt="ITS Power"/>
+<img src="https://websrchz.github.io/its-power-hub/assets/LogoItsPower.jpg" width="80" alt="ITS Power"/>
 </td>
 <td>
 
