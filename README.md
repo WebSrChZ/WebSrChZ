@@ -204,11 +204,6 @@ My technical book on ultrasonic NDT (UT Level II) — **published on Amazon** (K
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=WebSrChZ&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebSrChZ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br>
-
 <img src="https://streak-stats.demolab.com/?user=WebSrChZ&theme=tokyonight&hide_border=true" alt="Streak" />
 
 </div>
