@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&lines=Solutions+Strategist;Analysis+%E2%86%92+Strategy+%E2%86%92+Execution;Solving+what+most+people+overlook;I+fix+what+others+leave+stuck" alt="SrChZ" />
 
-![Profile views](https://komarev.com/ghpvc/?username=WebSrChZ&label=Profile%20views&color=8b5cf6&style=flat-square)
-
 </div>
 
 <div align="center">
@@ -197,16 +195,6 @@ My technical book on ultrasonic NDT (UT Level II) — **published on Amazon** (K
 </td>
 </tr>
 </table>
-
----
-
-### // metrics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=WebSrChZ&theme=tokyonight&hide_border=true" alt="Streak" />
-
-</div>
 
 ---
 
