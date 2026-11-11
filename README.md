@@ -35,7 +35,7 @@ aesthetic:  Dark Tech
 [![ITS Power](https://img.shields.io/badge/ITS_Power-portal-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.srchz-technologies.com.br/its-power/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/websrchz)
 [![Instagram](https://img.shields.io/badge/@websrchz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/websrchz)
-[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelhenriquecsantosz@gmail.com)
+[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael@srchz-technologies.com.br)
 
 </div>
 
@@ -97,7 +97,7 @@ AI evaluation and training, prompt engineering, quality analysis.
 
 > **Got something stuck that no one can solve?** I'm open to **freelance and consulting** — strategy, technology, visual production, data & AI. I bring the same method to any field: understand it deeply, find the root cause, deliver the solution.
 
-Genuinely multidisciplinary, analytical, and fluent in English (C2). If the problem needs someone who **thinks before executing**, [reach out](mailto:rafaelhenriquecsantosz@gmail.com).
+Genuinely multidisciplinary, analytical, and fluent in English (C2). If the problem needs someone who **thinks before executing**, [reach out](mailto:rafael@srchz-technologies.com.br).
 
 ---
 
