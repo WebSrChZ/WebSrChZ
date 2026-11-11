@@ -32,7 +32,7 @@ aesthetic:  Dark Tech
 
 [![SrChZ Technologies](https://img.shields.io/badge/srchz--technologies.com.br-c9a24b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.srchz-technologies.com.br)
 [![Musical Biography](https://img.shields.io/badge/Musical_Biography-listen-8b5cf6?style=for-the-badge&logo=spotify&logoColor=white)](https://websrchz.github.io/BiografiaMusical/)
-[![ITS Power](https://img.shields.io/badge/ITS_Power-portal-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://websrchz.github.io/its-power-hub/)
+[![ITS Power](https://img.shields.io/badge/ITS_Power-portal-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.srchz-technologies.com.br/its-power/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/websrchz)
 [![Instagram](https://img.shields.io/badge/@websrchz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/websrchz)
 [![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelhenriquecsantosz@gmail.com)
@@ -154,11 +154,11 @@ My umbrella site, now on its own domain with enforced HTTPS. A *Solutions Strate
 </tr>
 <tr>
 <td width="120" align="center">
-<img src="https://websrchz.github.io/its-power-hub/assets/LogoItsPower.jpg" width="80" alt="ITS Power"/>
+<img src="https://www.srchz-technologies.com.br/its-power/assets/LogoItsPower.jpg" width="80" alt="ITS Power"/>
 </td>
 <td>
 
-**[ITS Power — Project Portal](https://websrchz.github.io/its-power-hub/)**
+**[ITS Power — Project Portal](https://www.srchz-technologies.com.br/its-power/)**
 
 Client-facing SaaS portal for digital content management. Dashboard with editorial calendar, feedback system, real-time notifications via Supabase Realtime, installable PWA, and automatic deploy through GitHub Pages.
 
