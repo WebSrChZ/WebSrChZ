@@ -154,6 +154,20 @@ My umbrella site, now on its own domain with enforced HTTPS. A *Solutions Strate
 </tr>
 <tr>
 <td width="120" align="center">
+<img src="https://raw.githubusercontent.com/WebSrChZ/mundo-magico-showcase/main/imagens/icone.png" width="80" alt="Mundo Mágico"/>
+</td>
+<td>
+
+**[Mundo Mágico: Minha Cidade — Android game](https://play.google.com/store/apps/details?id=br.com.srchztechnologies.mundomagico)**
+
+A 3D town for kids aged 4 to 6, built by SrChZ and live on Google Play since November 2026. 10 places, 51 characters and 17 narrated activities in Portuguese, Spanish and English, with no chat, no sign-up and no data collection. [Showcase](https://github.com/WebSrChZ/mundo-magico-showcase) · [game page](https://www.srchz-technologies.com.br/mundo-magico/)
+
+`three.js` `Capacitor` `Android` `Google Play`
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center">
 <img src="https://www.srchz-technologies.com.br/its-power/assets/LogoItsPower.jpg" width="80" alt="ITS Power"/>
 </td>
 <td>
