@@ -158,7 +158,7 @@ My umbrella site, now on its own domain with enforced HTTPS. A *Solutions Strate
 </td>
 <td>
 
-**[Mundo Mágico: Minha Cidade — Android game](https://play.google.com/store/apps/details?id=br.com.srchztechnologies.mundomagico)**
+**[Mundo Mágico — Minha cidade de brincar · Android game](https://play.google.com/store/apps/details?id=br.com.srchztechnologies.mundomagico)**
 
 A 3D town for kids aged 4 to 6, built by SrChZ and live on Google Play since November 2026. 10 places, 51 characters and 17 narrated activities in Portuguese, Spanish and English, with no chat, no sign-up and no data collection. [Showcase](https://github.com/WebSrChZ/mundo-magico-showcase) · [game page](https://www.srchz-technologies.com.br/mundo-magico/)
 
